@@ -456,7 +456,7 @@ label {
 
 .radio-group {
     display: flex;
-    gap: var(--spacing-sm);
+    gap: var(--spacing-xl);
 }
 
 .radio-label {
